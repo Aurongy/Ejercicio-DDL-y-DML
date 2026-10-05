@@ -61,7 +61,7 @@ SELECT
 
 ---
 
-# Ejercicio 1 — Libros
+# Ejercicio 1 — Biblioteca
 
 ## Base de datos
 
