@@ -66,7 +66,7 @@ SELECT
 ## Base de datos
 
 ```text
-libros
+Biblioteca
 ```
 
 ## Tabla
