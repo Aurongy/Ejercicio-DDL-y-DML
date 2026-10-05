@@ -1,0 +1,8 @@
+CREATE TABLE Empleados (
+    IdEmpleado INT PRIMARY KEY AUTO_INCREMENT,
+    Nombre VARCHAR(100) NOT NULL,
+    Apellido VARCHAR(100) NOT NULL,
+    Puesto VARCHAR(100) NOT NULL,
+    Salario DECIMAL(10,2) NOT NULL,
+    Departamento VARCHAR(100) NOT NULL
+);

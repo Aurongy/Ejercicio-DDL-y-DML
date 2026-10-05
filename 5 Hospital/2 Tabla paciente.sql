@@ -1,0 +1,8 @@
+CREATE TABLE Pacientes (
+    IdPaciente INT PRIMARY KEY AUTO_INCREMENT,
+    Nombre VARCHAR(100) NOT NULL,
+    Apellido VARCHAR(100) NOT NULL,
+    FechaNacimiento DATE NOT NULL,
+    Genero VARCHAR(20) NOT NULL,
+    Ciudad VARCHAR(100) NOT NULL
+);

@@ -1,0 +1,8 @@
+CREATE TABLE Cursos (
+    IdCurso INT PRIMARY KEY AUTO_INCREMENT,
+    NombreCurso VARCHAR(150) NOT NULL,
+    Carrera VARCHAR(100) NOT NULL,
+    Creditos INT NOT NULL,
+    Catedratico VARCHAR(100) NOT NULL,
+    Horario VARCHAR(100) NOT NULL
+);

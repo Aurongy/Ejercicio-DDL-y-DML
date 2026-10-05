@@ -1,0 +1,8 @@
+CREATE TABLE Vehiculos (
+    IdVehiculo INT PRIMARY KEY AUTO_INCREMENT,
+    Marca VARCHAR(100) NOT NULL,
+    Modelo VARCHAR(100) NOT NULL,
+    Anio INT NOT NULL,
+    Color VARCHAR(50) NOT NULL,
+    Precio DECIMAL(10,2) NOT NULL
+);
